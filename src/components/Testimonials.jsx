@@ -9,14 +9,14 @@ const Testimonials = () => {
       role: "Business Owner",
       quote:
         "This service has been a game-changer for my business. Highly recommended!",
-      image: testi1,
+      image: testi3,
     },
     {
       name: "Jane Smith",
       role: "Freelancer",
       quote:
         "The team was incredibly professional, and the result exceeded my expectations.",
-      image: testi3,
+      image: testi1,
     },
     {
       name: "Joy Wilson",
