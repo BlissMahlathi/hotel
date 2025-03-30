@@ -5,21 +5,21 @@ import testi3 from "../assets/testi-03.jpg";
 const Testimonials = () => {
   const testimonials = [
     {
-      name: "John Doe",
+      name: "Vukosi Maake",
       role: "Business Owner",
       quote:
         "This service has been a game-changer for my business. Highly recommended!",
       image: testi3,
     },
     {
-      name: "Jane Smith",
+      name: "Jane Mthebule",
       role: "Freelancer",
       quote:
         "The team was incredibly professional, and the result exceeded my expectations.",
       image: testi1,
     },
     {
-      name: "Joy Wilson",
+      name: "Joyce Baloyi",
       role: "Entrepreneur",
       quote:
         "I am beyond impressed with the quality of work and attention to detail.",
